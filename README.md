@@ -1,0 +1,2 @@
+# ElevateDecentralizedAppRepo
+Decentralized application for marketing
